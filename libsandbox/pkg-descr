@@ -1,0 +1,3 @@
+libsandbox: a library to prevent running applications from stepping on each other.
+
+WWW: http://freewebos.github.io/
