@@ -1,0 +1,4 @@
+webos/usr/include/sandbox.h
+webos/usr/lib/libsandbox.a
+webos/usr/share/pkgconfig/sandbox.pc
+
