@@ -12,7 +12,7 @@ LICENSE=	APACHE20
 USE_GITHUB=	yes
 GH_ACCOUNT=	FreeWebOS
 GH_PROJECT=	librolegen
-GH_TAGNAME=	submissions/21
+GH_TAGNAME=	1.0b
 GH_COMMIT=	2833a6e
 
 USES=		cmake:outsource
