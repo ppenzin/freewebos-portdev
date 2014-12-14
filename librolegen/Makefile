@@ -18,6 +18,6 @@ GH_COMMIT=	2833a6e
 USES=		cmake:outsource
 INSTALL_TARGET=	install
 
-BUILD_DEPENDS+=	share/cmake/Modules/webOS/webOS.cmake:${PORTSDIR}/devel/cmake-modules-webos
+BUILD_DEPENDS+=	${LOCALBASE}/share/cmake/Modules/webOS/webOS.cmake:${PORTSDIR}/devel/cmake-modules-webos
 
 .include <bsd.port.mk>
