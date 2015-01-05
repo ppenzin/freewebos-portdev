@@ -6,7 +6,7 @@ Share ports files before submitting to Ports Collection
 # TODO
 + cjson (decide whether we are using this version)
 + libpbnjson (need port)
-+ pmloglib
++ pmloglib (current)
 + luna-service2
 
 # To submit
