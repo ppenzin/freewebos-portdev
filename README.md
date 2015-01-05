@@ -4,8 +4,8 @@ freewebos-portdev
 Share ports files before submitting to Ports Collection
 
 # TODO
-+ cjson
-+ libpbnjson
++ cjson (decide whether we are using this version)
++ libpbnjson (need port)
 + pmloglib
 + luna-service2
 
