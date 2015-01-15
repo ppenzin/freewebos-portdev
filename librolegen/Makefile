@@ -2,7 +2,7 @@
 
 PORTNAME=	librolegen
 PORTVERSION=	1.0b
-CATEGORIES=	devel
+CATEGORIES=	sysutils
 
 MAINTAINER=	penzin.dev@gmail.com
 COMMENT=	librolegen dynamically generates webOS system bus role files

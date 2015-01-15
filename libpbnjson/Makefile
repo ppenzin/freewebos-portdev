@@ -19,10 +19,10 @@ USES=		cmake:outsource
 INSTALL_TARGET=	install
 
 BUILD_DEPENDS+=	${LOCALBASE}/share/cmake/Modules/webOS/webOS.cmake:${PORTSDIR}/devel/cmake-modules-webos
-BUILD_DEPENDS+=	XXX:PORTSDIR}/devel/yajl
+BUILD_DEPENDS+=	XXX:${PORTSDIR}/devel/yajl
 BUILD_DEPENDS+=	XXX:${PORTSDIR}/devel/lemon
 BUILD_DEPENDS+=	XXX:${PORTSDIR}/devel/boost-libs
 BUILD_DEPENDS+=	XXX:${PORTSDIR}/net/uriparser
-BUILD_DEPENDS+=	bash:PORTSDIR}/shells/bash
+BUILD_DEPENDS+=	bash:${PORTSDIR}/shells/bash
 
 .include <bsd.port.mk>
