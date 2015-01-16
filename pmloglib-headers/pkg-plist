@@ -1,0 +1,3 @@
+webos/usr/include/PmLogLib.h
+webos/usr/include/PmLogMsg.h
+webos/usr/share/pkgconfig/PmLogLib-headers.pc
