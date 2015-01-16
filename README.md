@@ -11,15 +11,15 @@ cd doc && make
 Now that only produces a dependency graph image
 
 # TODO
-+ pmloglib-headers
 + cjson (decide whether we are using this version)
-+ libpbnjson (need port)
-+ pmloglib (current)
++ libpbnjson (need port, enable logging)
++ pmloglib (need port), without headers?
 + luna-service2
 
 # To submit
 + libsandbox
 + librolegen
++ pmloglib-headers
 
 # Done
 + cmake-modules-webos
