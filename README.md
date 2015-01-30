@@ -1,7 +1,8 @@
 freewebos-portdev
 =================
 
-Share ports files before submitting to Ports Collection
+Share ports files before submitting to Ports Collection, also document the
+progress of porting. 
 
 # Documentation
 To build documentation install graphviz and run

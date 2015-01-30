@@ -13,4 +13,9 @@ digraph {
 	"sysutils/pmloglib" -> "devel/libpbnjson";
 	"sysutils/pmloglib" -> "devel/cmake-modules-webos (+)";
 	"sysutils/pmloglib" -> "devel/glib20 (ext)";
+	"sysutils/luna-service2" -> "sysutils/pmloglib";
+	"sysutils/luna-service2" -> "devel/cmake-modules-webos (+)";
+	"sysutils/luna-service2" -> "devel/libpbnjson";
+	"sysutils/luna-service2" -> "devel/glib20 (ext)";
+	"sysutils/luna-service2" -> "devel/pkgconf (ext)";
 }
