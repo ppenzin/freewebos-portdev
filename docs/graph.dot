@@ -18,4 +18,5 @@ digraph {
 	"sysutils/luna-service2" -> "devel/libpbnjson";
 	"sysutils/luna-service2" -> "devel/glib20 (ext)";
 	"sysutils/luna-service2" -> "devel/pkgconf (ext)";
+	"sysutils/luna-service2" -> "devel/dmalloc (ext)";
 }
