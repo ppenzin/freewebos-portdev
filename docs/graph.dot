@@ -5,11 +5,13 @@ digraph {
 	"devel/pmloglib-headers" -> "(?)";
 	"devel/libpbnjson" -> "devel/cmake-modules-webos (+)";
 	"devel/libpbnjson" -> "devel/pmloglib-headers";
-	"devel/libpbnjson" -> "/devel/yajl (ext)";
-	"devel/libpbnjson" -> "/devel/lemon (ext)";
-	"devel/libpbnjson" -> "/devel/boost-libs (ext)";
-	"devel/libpbnjson" -> "/net/uriparser (ext)";
+	"devel/libpbnjson" -> "shells/bash (ext, for testing)";
+	"devel/libpbnjson" -> "devel/yajl (ext)";
+	"devel/libpbnjson" -> "devel/lemon (ext)";
+	"devel/libpbnjson" -> "devel/boost-libs (ext)";
+	"devel/libpbnjson" -> "net/uriparser (ext)";
 	"devel/libpbnjson" -> "devel/glib20 (ext)";
+	"devel/libpbnjson" -> "devel/pkgconf (ext)";
 	"sysutils/pmloglib" -> "devel/libpbnjson";
 	"sysutils/pmloglib" -> "devel/cmake-modules-webos (+)";
 	"sysutils/pmloglib" -> "devel/glib20 (ext)";
